@@ -1,0 +1,20 @@
+{
+	"name": "agilma/ParagraphDotLine",
+	"description": "make paragraph set dot-line",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Agil Mahendra",
+			"email": "agil.mahendra@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.5.9"
+	},
+	"autoload": {
+		"psr-4": {
+			"agilma\\ParagraphDotLine\\": "src/"
+		}
+	},
+	"minimum-stability": "dev"
+}
