@@ -8,6 +8,7 @@
 			"email": "agil.mahendra@gmail.com"
 		}
 	],
+	"minimum-stability": "dev",
 	"require": {
 		"php": ">=5.5.9"
 	},
@@ -15,6 +16,5 @@
 		"psr-4": {
 			"agilma\\ParagraphDotLine\\": "src/"
 		}
-	},
-	"minimum-stability": "dev"
+	}
 }
